@@ -2,7 +2,7 @@
 ### Undergraduate in Computer Engineering at USP
 - 🤖 I’m currently part of **[Grupo SEMEAR]**
 - 🌱 Seeking to learn new technologies and skills
-- 🚀 Currently fascinated about Robotics and Computer Vision
+- 🚀 Currently studying Robotics and Computer Vision
 
 <div>
     <a href="https://github.com/marcogarcia2i">

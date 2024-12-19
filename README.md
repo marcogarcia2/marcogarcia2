@@ -4,10 +4,9 @@
 - 🌱 Eager to learn new technologies and skills
 - 🚀 Currently studying Databases and Backend Development
 
-<div>
-    <a href="https://github.com/marcogarcia2i">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcogarcia2&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcogarcia2&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcogarcia2&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=false"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcogarcia2&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 ### Technologies I work with

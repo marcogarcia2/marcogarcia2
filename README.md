@@ -7,8 +7,8 @@
 - 🚀 Currently studying Databases and Backend Development
 
 <div>
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcogarcia2&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=false"/>
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcogarcia2&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcogarcia2&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcogarcia2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 ### Technologies I work with
@@ -20,3 +20,5 @@
   <a href = "mailto:mmgaspargarcia@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marco-garcia-44b83423a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div>
+
+[![](https://visitcount.itsvg.in/api?id=marcogarcia2&icon=7&color=0)](https://visitcount.itsvg.in)

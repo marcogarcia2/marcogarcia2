@@ -7,8 +7,8 @@
 - 🚀 Currently studying Databases and Backend Development
 
 <div>
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcogarcia2&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcogarcia2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcogarcia2&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcogarcia2&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 ### Technologies I work with

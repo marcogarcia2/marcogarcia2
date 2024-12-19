@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7eff00&height=120&section=header"/>
+
 # Marco Garcia
 ### Undergraduate in Computer Engineering at USP
 - 🤖 I’m currently a member of **[Grupo SEMEAR](https://github.com/Grupo-SEMEAR-USP)** and **[LabRoM](https://github.com/EESC-LabRoM)**

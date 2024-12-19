@@ -21,4 +21,7 @@
   <a href="https://www.linkedin.com/in/marco-garcia-44b83423a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div>
 
+<br>
+<br>
+
 [![](https://visitcount.itsvg.in/api?id=marcogarcia2&icon=7&color=0)](https://visitcount.itsvg.in)

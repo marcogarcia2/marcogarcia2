@@ -1,6 +1,6 @@
 # Marco Garcia
 ### Undergraduate in Computer Engineering at USP
-- 🤖 I’m currently a member of **[Grupo SEMEAR](https://github.com/Grupo-SEMEAR-USP)**
+- 🤖 I’m currently a member of **[Grupo SEMEAR](https://github.com/Grupo-SEMEAR-USP)** and **[LabRoM](https://github.com/EESC-LabRoM)**
 - 🌱 Eager to learn new technologies and skills
 - 🚀 Currently studying Databases and Backend Development
 

@@ -4,7 +4,7 @@
 ### Undergraduate in Computer Engineering at USP
 - 🤖 I’m currently a member of **[Grupo SEMEAR](https://github.com/Grupo-SEMEAR-USP)** and **[LabRoM](https://github.com/EESC-LabRoM)**
 - 🌱 Eager to learn new technologies and skills
-- 🚀 Currently studying PyTorch and Neural Neteworks
+- 🚀 Currently studying PyTorch and Neural Networks
 
 <div>
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcogarcia2&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true"/>

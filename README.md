@@ -2,7 +2,7 @@
 <h1 align="center">Marco G. 🇧🇷</h1>
 <h3 align="center">BSc. in Computer Engineering @ USP</h3>
 
-- ⚡️ I’m currently learning **code optimization in C** ([check this repo](https://github.com/marcogarcia2/optimized-codes))
+- ⚡️ I’m currently learning **code optimization in C** ([check out this repo](https://github.com/marcogarcia2/optimized-codes))
 
 - 🐧 Linux, HPC and Embedded Systems **enthusiast...**
 

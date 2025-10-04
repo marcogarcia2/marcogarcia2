@@ -20,7 +20,7 @@
 
 
 ###
-<h2 align="left">Techn Stack</h2>
+<h2 align="left">Tech Stack</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
